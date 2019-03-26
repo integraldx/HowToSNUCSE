@@ -30,5 +30,17 @@ IDE를 설치하면서 컴파일러도 같이 설치가 되기 때문에, IDE �
 - [IntelliJ](IntelliJ.md)
 - [CLion](CLion.md)
 
+## 컴파일 및 빌드
+여러분이 작성한 코드는, 컴파일, 또는 빌드라는 작업을 통해 하나의 프로그램 또는 라이브러리가 됩니다.  
+간단한 코드라면, 단순한 `gcc main.c` 같은 명령으로 충분히 원하는 결과가 나오겠죠.  
+그러나, 커다란 프로그램의 경우에는 컴파일이 녹록치 않습니다. 아래는 실제로 제가 그래픽스 과제 컴파일을 위해 실행하는 명령입니다.  
+`g++ main.cpp SceneManager.cpp Model.cpp Object.cpp Camera.cpp Util.cpp Pod.cpp -lglut -lGLU -lGL -o main`  
+이런 긴 명령을 매번 테스트 할 때마다 칠 수는 없죠. 그래서 개발자들은 **어떻게 컴파일할지**를 지정해주는 프로그램들을 사용합니다.  
+### 목록
+- [make](make.md)
+- [cmake](cmake.md)
+- [Visual Studio](Visual_Studio.md) [^1]
 
+
+[^1]: 비주얼 스튜디오는 자체 솔루션(.sln)포맷을 이용해 컴파일을 관리합니다.
 ## 소스 관리 프로그램(git)
