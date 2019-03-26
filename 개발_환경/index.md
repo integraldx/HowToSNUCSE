@@ -39,8 +39,8 @@ IDE를 설치하면서 컴파일러도 같이 설치가 되기 때문에, IDE �
 ### 목록
 - [make](make.md)
 - [cmake](cmake.md)
-- [Visual Studio](Visual_Studio.md) [^1]
+- [Visual Studio](Visual_Studio.md) [1]
 
 
-[^1]: 비주얼 스튜디오는 자체 솔루션(.sln)포맷을 이용해 컴파일을 관리합니다.
+[1]: 비주얼 스튜디오는 자체 솔루션(.sln)포맷을 이용해 컴파일을 관리합니다.
 ## 소스 관리 프로그램(git)
