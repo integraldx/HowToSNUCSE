@@ -14,6 +14,12 @@
 - [개발 환경](개발_환경/index.md)
 - [컴퓨터 사용](컴퓨터_사용/index.md)
 - [유틸리티 프로그램](유틸리티_프로그램/index.md)
+- [기초 지식](기초_지식/index.md)
+
+## 주의사항
+이 문서를 작성하는 사람들도 모든 걸 아는 만능인간은 아닙니다. 틀린 정보가 있을 수도 있어요.  
+서울대학교 컴퓨터공학부에 한정된 정보가 다수 있습니다. 외부인이 읽으실 때는 정보의 차이에 유의하며 읽어주세요.  
+오픈 소스 라이선스에 의해 보호받습니다. 자세한 내용은 [LICENSE](LICENSE)를 참고해주세요.
 
 ## Manager
 - [integraldx](https://github.com/integraldx)
@@ -21,3 +27,6 @@
 - [gratus907](https://github.com/gratus907)
 - [creeper00](https://github.com/creeper00)
 - [coffeetea99](https://github.com/coffeetea99)
+
+## 기여하기
+이슈, 풀리퀘 받습니다! 알고 있는 지식을 공유하고 싶으시다면, 언제든 요청을 날려주세요. 
