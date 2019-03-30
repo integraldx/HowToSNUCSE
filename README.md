@@ -1,5 +1,6 @@
 # HowToSNUCSE
-고인물들은 무엇을 아는가
+고인물들은 무엇을 아는가  
+[![license](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)](LICENSE)
 
 ## 이것은 무엇인가요?  
 컴공에는, 컴퓨터를 아주 잘 아는 사람도 있고, 프로그래밍을 처음 해보는 사람도 있습니다.  
@@ -22,7 +23,7 @@ Make로 편하게 컴파일하는 방법, 리눅스 사용의 기초 지식, 텍
 서울대학교 컴퓨터공학부에 한정된 정보가 다수 있습니다. 외부인이 읽으실 때는 정보의 차이에 유의하며 읽어주세요.  
 
 ### 라이선스 및 배포
-**CC BY-SA 4.0**을 사용합니다. [LICENSE](LICENSE)를 참고해주세요.  
+[**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)을 사용합니다.  
 다른 학교의 문서로 만드실 수 있습니다. 다만 저작자 표시와, 동일조건 변경을 지켜주세요.  
 
 ### 기여
