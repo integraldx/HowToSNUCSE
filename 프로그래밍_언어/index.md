@@ -11,7 +11,7 @@
 
 ### 목록
 - [C](C.md)
-- [C++](C++.md)
+- [C++](C++/index.md)
 - [Rust](Rust.md)
 
 ## Managed Language
