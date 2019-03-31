@@ -1,6 +1,6 @@
 # HowToSNUCSE
 고인물들은 무엇을 아는가  
-[![license](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)](LICENSE)
+[![license](https://badgen.net/badge/license/CC-BY-SA-4.0/blue)](LICENSE)
 
 ## 이것은 무엇인가요?  
 컴공에는, 컴퓨터를 아주 잘 아는 사람도 있고, 프로그래밍을 처음 해보는 사람도 있습니다.  
