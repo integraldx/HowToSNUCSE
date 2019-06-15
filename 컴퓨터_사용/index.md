@@ -26,5 +26,12 @@
 - [명령어](리눅스/commands.md)
 
 ## 맥OS
-macOS는 Apple사에서 제작한 Unix(FreeBSD)를 기반으로한 운영체제입니다. 개발자들의 로컬 개발환경은 윈도우와 맥OS가 많은 편입니다. [(참고링크)](https://insights.stackoverflow.com/survey/2018/#technology-_-developers-primary-operating-systems)  
+macOS는 Apple사에서 제작한 Unix(FreeBSD)를 기반으로한 운영체제입니다.
+개발자들의 로컬 개발환경은 윈도우와 맥OS가 많은 편입니다. [(참고링크)](https://insights.stackoverflow.com/survey/2018/#technology-_-developers-primary-operating-systems)  
 맥OS는 `Terminal`환경이 리눅스와 유사하고(기본적으로 `bash`를 사용), `Homebrew`, `Automator`, `Alfred` 등 생산성에 도움이 되는 유틸리티가 많습니다.
+### 목록
+- [버전](macOS/distributions.md)
+- [디렉토리 구조](macOS/directory.md)
+- [패키지 매니저](macOS/package_manager.md)
+- [터미널(Shell)](macOS/shell.md)
+- [명령어](macOS/commands.md)
